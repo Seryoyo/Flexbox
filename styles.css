@@ -1,0 +1,142 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.first{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+    background-color: #1F2937;
+    height: 500px;
+
+}
+
+.first-left{
+    margin-left: 300px;
+}
+.first-right{
+    margin-right: 300px;
+    
+}
+
+p{
+    font-size: 20px;
+}
+
+h3{
+    margin-top: 0px;
+    font-weight: 900;
+    font-size: 25px;
+}
+h1{
+    font-size: 40px;
+}
+h1, h3{
+    color: white;
+    margin-top: 10px;
+}
+
+.Kainoah{
+    height: 330px;
+    width: 600px;
+}
+
+.Intro{
+    max-width: 570px;
+    color: white;
+    margin-top: 60px;
+}
+
+button{
+    background-color: rgb(27, 142, 187);
+    color: white;
+    padding: 10px;
+    padding-left: 28px;
+    padding-right: 28px;
+    border-radius: 5px;
+}
+
+.links{
+    margin-bottom: 50px;
+    text-align: end;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.second{
+    height: 500px;
+}
+
+.second-title{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 910;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.images{
+    display: flex;
+    justify-content: space-around;
+    margin-right:300px;
+    margin-left: 300px;
+    margin-top: 60px;
+}
+
+.container{
+    border: 10px solid rgb(13, 174, 223);
+    border-radius: 20px;
+}
+
+.img-text{
+    max-width: 220px;
+    text-align: center;
+}
+
+.third{
+    height: 500px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+i{
+    color: rgb(75, 72, 72);
+    font-size: 40px;
+}
+
+.text{
+    max-width: 1300px;
+}
+
+.invest{
+    text-align: end;
+}
+
+.i{
+    color: black;
+}
+
+.fourth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 110px;
+    background-color: rgb(44, 44, 46);
+    color: white;
+}
